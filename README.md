@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatiasLogrado
 - 👀 I’m interested in bringing the digital world to the country side
-- 🌱 I’m currently learning NEXT.JS
+- 🌱 I’m currently learning Svelte and SvelteKit
 - 💞️ I’m looking to collaborate on open-source projects that are benefic for people
 - 📫 How to reach me : matiaslogrado@gmail.com
 
